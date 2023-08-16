@@ -2,4 +2,4 @@ let a=2,b=3;
  
 sum = a + b;
 
-console.log(sum);
+console.log("sum is "+sum);
